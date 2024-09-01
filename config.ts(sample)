@@ -1,0 +1,4 @@
+export const key = ""
+export const signature = ""
+
+// save the file as config.ts in your main folder.
