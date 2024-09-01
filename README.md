@@ -18,3 +18,5 @@ By changing pair names index.ts file we can check if spread is significant to tr
 Placing order logic is still not that efficient. Trying to make it efficient thats why that code is commented out.
 
 You can see it and suggest good changes.
+
+You can a config.ts file in main folder and keep api keys named key and signature. I'm adding a sample file for it.
